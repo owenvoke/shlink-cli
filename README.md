@@ -1,6 +1,6 @@
 # shlink-cli
 
-An unofficial [Shlink](https://shlink.io/) cli rest client for creating/managing
+An unofficial [Shlink](https://shlink.io) CLI REST client for creating/managing
 a Shlink server via its API, and the command line.
 
 ## Usage
@@ -23,4 +23,5 @@ https://github.com/fuzzyfox/shlink-cli
 ```
 
 ---
-This project is build on top of [laravel-zero](https://github.com/laravel-zero/laravel-zero).
+
+This project is build on top of [Laravel Zero](https://github.com/laravel-zero/laravel-zero).
